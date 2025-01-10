@@ -1,0 +1,19 @@
+Scenario 1
+The team has a scheduled daily stand-up at 9 am in the morning. The meetings usually take over an hour. A lot of time is spent discussing a tricky dependency between several tasks that requires extensive conversation.
+- Diagnosis: The daily stand-up is taking too long and is being used for extensive discussions rather than a brief synchronization of the team's work.
+- Remedy: The Scrum Master should enforce the timebox of 15 minutes for the daily stand-up and remind the team that it is not meant for extensive discussions. If a tricky dependency requires extensive conversation, it should be addressed outside of the daily stand-up in a separate meeting.
+
+Scenario 2
+In the beginning of the sprint the tasks were picked up by the development team. However, by the middle of the sprint, development team starts to look to Scrum Master to assign tasks to individual developers.
+- Diagnosis: The Development Team is not self-organizing and is relying on the Scrum Master to assign tasks to individual developers.
+- Remedy: The Scrum Master should remind the Development Team that they are responsible for managing their own work and pulling tasks from the sprint backlog during sprint planning. The Scrum Master can also facilitate a discussion with the team to identify any impediments that may be preventing them from self-organizing.
+
+Scenario 3
+If a development team member needs to discuss a task with the Product Owner, the developer approaches Scrum Master to help set up a meeting with the Product Owner.
+- Diagnosis: The Development Team is not communicating directly with the Product Owner and is relying on the Scrum Master to facilitate communication.
+- Remedy: The Scrum Master should encourage direct communication between the Development Team and the Product Owner. The Product Owner should also make themselves available to the Development Team to answer questions and provide clarification on product backlog items.
+
+Scenario 4
+The team is using the latest Agile Application Lifecycle Management tool because it is supposed to be most effective. However, most of the team is having hard time getting used to the tool.
+- Diagnosis: The team is having difficulty using the Agile Application Lifecycle Management tool, which may be impacting their productivity and effectiveness.
+- Remedy: The Scrum Master should facilitate a discussion with the team to identify any specific challenges they are facing with the tool and provide training or support as needed. If the tool is not meeting the needs of the team, they may consider exploring alternative tools that better support their process.
